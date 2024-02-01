@@ -1,0 +1,13 @@
+__pycache__/
+
+.venv/
+
+build/
+
+dist/
+
+その他/
+
+test.ipynb
+
+ThreadConnector-1.1.py
